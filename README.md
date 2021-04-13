@@ -17,13 +17,14 @@
 # What's working:
 * Audio (HDMI and Headphone jack)
 * Audio controls
-* SD Card reader
 * Bluetooth (Fully Working with audio support, etc.)
 * Ethernet
 * Wifi
 * USB
 * Triple Booting (Linux, Windows and macOS)
 
+# What's NOT working:
+* SD Card reader
 
  
 # Not tested:
