@@ -24,7 +24,7 @@
 * Triple Booting (Linux, Windows and macOS)
 
 # What's NOT working:
-* SD Card reader
+* microSD Card reader
 
  
 # Not tested:
