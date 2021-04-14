@@ -3,27 +3,26 @@
 
 
 # Specs: 
-* CPU	Intel® Core™ i3-8109U
-* iGPU	Intel® Iris® Plus 655
-* Lan	Intel I219-V
-* Audio	Realtek ALC235
-* Ram	16 Gb ddr4 2400 Mhz
-* Wifi + Bluetooth	Intel® Wireless-AC 9560 + Bluetooth 5.0
-* Nvme	Sabrent 256GB Rocket NVMe PCIe M.2 2280
-* SSD	Samsung MZ-77Q1T0BW 870 QVO 1 TB
-* Card Reader.	microSDXC Card Reader
+* CPU:	Intel Core i3-8109U
+* iGPU:	Intel Iris Plus 655
+* Lan:	Intel I219-V
+* Audio:	Realtek ALC235
+* Ram:	16 Gb DDR4 2400 Mhz
+* Wifi/Bluetooth:	Intel Wireless-AC 9560 (Bluetooth 5.0)
+* Nvme:	Sabrent 256GB Rocket NVMe PCIe M.2 2280
+* SSD:	Samsung MZ-77Q1T0BW 870 QVO 1 TB
+* Card Reader:	mSD Card Reader
 
 
 # What's working:
 * Audio (HDMI and Headphone jack)
 * Audio controls
-* Bluetooth (Fully Working with audio support, etc.)
+* Bluetooth
 * Ethernet
 * Wifi
 * USB
 * Triple Booting (Linux, Windows and macOS)
 * microSD Card reader (with Sinetek-rtsx.kext)
-
  
 # Not tested:
 * iMessage, FaceTime, iCloud
