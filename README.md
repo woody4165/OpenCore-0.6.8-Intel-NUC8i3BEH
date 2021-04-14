@@ -22,9 +22,7 @@
 * Wifi
 * USB
 * Triple Booting (Linux, Windows and macOS)
-
-# What's NOT working:
-* microSD Card reader
+* microSD Card reader (with Sinetek-rtsx.kext)
 
  
 # Not tested:
